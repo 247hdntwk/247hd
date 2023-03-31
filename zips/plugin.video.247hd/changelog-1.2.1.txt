@@ -1,0 +1,41 @@
+[[B]Version 1.2.1[/B]
+
+-Take into account Kodi timezone for the schedule
+
+[[B]Version 1.2.0[/B]
+
+-Migration to Kodi 20.0
+
+[[B]Version 1.1.0[/B]
+
+-Migration to Kodi 19.5
+
+[[B]Version 1.0.6[/B]
+
+-Fixed Script error bug
+
+[[B]Version 1.0.5[/B]
+
+-Fixed Channel 3 issue
+
+[[B]Version 1.0.4[/B]
+
+-update Bug Fix
+
+[[B]Version 1.0.3[/B]
+
+-Bug Fix
+
+B]Version 1.0.2[/B]
+
+-Bug Fix
+
+[B]Version 1.0.1[/B]
+
+-User release
+
+[B]Version 1.0.0[/B]
+
+-Intial release
+
+
