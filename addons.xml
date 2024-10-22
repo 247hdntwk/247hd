@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.video.247hd" name="247HD.tv" provider-name="247HD" version="1.2.1">
+<addons><addon id="plugin.video.247hd" name="247HD.tv" provider-name="247HD" version="1.2.2">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.common.plugin.cache" version="2.6.3" />		
@@ -17,15 +17,15 @@
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
         <source>http://github.com/you/plugin.addon.id</source>
-        <news>v1.2.1 (27/03/2023)
-          [new] Take into account Kodi timezone for the schedule
+        <news>v1.2.2 (21/10/2024)
+          [new] Fix channels streaming
         </news>
         <assets>
             <icon>resources/empty.png</icon>
             <fanart>resources/fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="repository.247hd" name="247hd Repository" provider-name="reddevil" version="1.2.0">
+</addon><addon id="repository.247hd" name="247hd Repository" provider-name="reddevil" version="1.2.2">
   <extension name="247hd Repository" point="xbmc.addon.repository">
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/247hdntwk/247hd/master/addons.xml</info>
